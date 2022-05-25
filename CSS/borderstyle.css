@@ -1,0 +1,5 @@
+p {
+    outline-style: dotted;
+    outline-color: green;
+    border: 2px solid red;  
+}
